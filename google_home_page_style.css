@@ -1,0 +1,23 @@
+.top_nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top_nav li{
+    float: left;
+}
+
+.bottom_nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bottom_nav li{
+    float: left;
+}
+
+#right_nav .bottom_nav li{
+    float: right;
+}
